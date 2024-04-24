@@ -1,7 +1,0 @@
-
-auto play gif
-show neural network of the best individual of each generation
-
-add arg parser -- done
-add reinforcedment learning feature -- done
-shrink the show case picture -- done
